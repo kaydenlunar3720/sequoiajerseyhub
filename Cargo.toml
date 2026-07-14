@@ -1,0 +1,4 @@
+[package]
+name = "ring_alloc_e69fce"
+version = "0.0.0"
+edition = "2021"
